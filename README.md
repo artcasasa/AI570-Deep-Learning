@@ -1,29 +1,39 @@
-# AI 570 - Deep Learning
+# 🤖 AI 570 - Deep Learning  
 
 This repository contains coursework for **AI 570 (Section 001) - Deep Learning (2025)**.  
-It includes the course syllabus, projects, and term project notebooks.
+It includes the **course syllabus**, **project notebooks**, and the **final term project**.  
 
-## 📂 Repository Structure
-- `syllabus/` → Course syllabus PDF.
-- `projects/` → Project notebooks:
-  - Project 1
-  - Project 2
-  - Term Project
-- `zip-archives/` → Original zipped files (for backup/reference).
-- `requirements.txt` → List of Python packages required (optional).
+---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
+## 📂 Repository Structure  
+- 📘 **`syllabus/`** → Course syllabus in PDF format  
+- 📑 **`projects/`** → Project notebooks:  
+  - 📝 Project 1  
+  - 📝 Project 2  
+  - 🎓 Term Project  
+- 🗂️ **`zip-archives/`** → Original zipped files (for backup/reference)  
+- ⚙️ **`requirements.txt`** → Python dependencies (optional)  
+
+---
+
+## 🚀 How to Run  
+
+1. **Clone the repository**  
+```bash
    git clone https://github.com/username/AI570-Deep-Learning.git
-Open .ipynb files with Jupyter Notebook or Google Colab.
+```
+   cd AI570-Deep-Learning
 
-(Optional) Install dependencies:
+Open notebooks using one of the following:
 
-bash
-Copy code
+Jupyter Notebook
+
+Google Colab
+
+Example:
+
+(Optional) Install dependencies
+
+```bash
 pip install -r requirements.txt
-📌 Notes
-All projects are written in Python using Jupyter Notebooks.
-
-The term project may require additional datasets, not included in this repo.
+```
