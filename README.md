@@ -6,12 +6,10 @@ It includes the **course syllabus**, **project notebooks**, and the **final term
 ---
 
 ## 📂 Repository Structure  
-- 📘 **`syllabus/`** → Course syllabus in PDF format  
 - 📑 **`projects/`** → Project notebooks:  
   - 📝 Project 1  
   - 📝 Project 2  
   - 🎓 Term Project  
-- 🗂️ **`zip-archives/`** → Original zipped files (for backup/reference)  
 - ⚙️ **`requirements.txt`** → Python dependencies (optional)  
 
 ---
@@ -37,3 +35,4 @@ Example:
 ```bash
 pip install -r requirements.txt
 ```
+
